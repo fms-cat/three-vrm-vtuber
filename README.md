@@ -2,7 +2,7 @@
 
 [@pixiv/three-vrm](https://github.com/pixiv/three-vrm/) を使ってVTuberになっちゃおう
 
-![capture](step4/capture.png)
+![capture](step4/readme-images/capture.png)
 
 ### ターゲット
 
